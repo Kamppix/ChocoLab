@@ -1,0 +1,6 @@
+love.window.setTitle('ChocoLab')
+love.window.setMode(960, 720)
+love.graphics.setDefaultFilter('nearest', 'nearest')
+love.graphics.setBackgroundColor(0.0812, 0.0741, 0.0718, 1)
+love.audio.setVolume(0.1)
+love.window.setIcon(love.image.newImageData('assets/textures/items/chocolate.png'))

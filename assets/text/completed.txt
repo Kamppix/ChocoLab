@@ -1,0 +1,10 @@
+Great job! You've collected all 5 stars!
+
+You've now spent %s playing this game.
+
+Now, for the love of God, please go do something else.
+L ife is short and there is actually no more to this game.
+
+Thanks for playing!
+
+- Kamppi

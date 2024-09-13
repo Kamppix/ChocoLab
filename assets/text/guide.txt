@@ -1,0 +1,36 @@
+Hello and welcome to ChocoLab!
+
+
+In this game, you will have to use a bit of imagination and preferably also take notes to
+create the most delicious type of edible stuff there is: chocolate.
+
+There are three starting ingredients that you will use to achieve your goal:
+water, cucumber and gravel. Yes. You read correctly. This is a weird game, okay?
+
+You can take as many of the starting ingredients as you want by clicking on them
+below the 5x2 inventory grid. If your inventory gets full, you can trash some of the
+ingredients by moving them into the trash can.
+
+Behind this massive box of text, there are five different machines that each process
+ingredients differently. To use these machines:
+1. Make sure the output (bottom) slots of the machine are empty.
+2. Place ingredients into the input (top) slots.
+3. If a new ingredient appears faded in the output slot, press the big green 'START'
+    button to start creating that ingredient.
+
+The first machine combines two items, taking some of each ingredient's properties into
+account. The second one splits an ingredient into two different ones with the same
+logic as the first machine. The third machine... Well... It transmutes ingredients into
+others alike. For example, a potato into another root vegetable. The fourth and fifth
+machines are for heating and cooling.
+
+Just to throw it out there, everything is controlled with the mouse so don't bother
+pressing a n y keys. Also, don't mind the stars that might appear below the logo text.
+
+If you need to read this again, you can do so by clicking on the question mark in the
+top right corner.
+
+
+Have fun, I guess.
+
+- Kamppi

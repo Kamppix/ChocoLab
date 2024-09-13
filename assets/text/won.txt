@@ -1,0 +1,8 @@
+Yay! You did it! You won! I bet you had fun.
+
+You spent %s playing this game.
+
+Now you can finally go do something else, as there is
+absolutely n o more to see here.
+
+Thanks for playing!
